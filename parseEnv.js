@@ -8,4 +8,5 @@ module.exports = function parseEnv(content) {
     }
     console.log(json)
     
+    
 }
